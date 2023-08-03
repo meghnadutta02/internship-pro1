@@ -49,7 +49,7 @@ const Navbar = ({search}) => {
             className="sm:h-9 sm:w-9 h-7 w-7 cursor-pointer"
 
           />
-          <span className="logo text-2xl">CodeSphere</span>
+          <span className="logo text-2xl cursor-pointer">CodeSphere</span>
         </div>
         {isMobile ? (
           <>
